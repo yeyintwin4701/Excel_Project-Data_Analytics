@@ -8,8 +8,6 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
-### Dashboard File
-My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
 
 ### Excel Skills Used
 
@@ -45,8 +43,8 @@ The dataset used for this project contains real-world data science job informati
 
 ![1_Salary_Dashboard_Chart2.png](../Images/1_Salary_Dashboard_Country_Map.gif)
 
-- 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
-- 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
+- Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
+-  Design Choice: Color-coded map to visually differentiate salary levels across regions.
 - 📊 **Data Representation:** Plotted median salary for each country with available data.
 - 👁️ **Visual Enhancement:** Improved readability and immediate understanding of geographic salary trends.
 - 💡 **Insights Gained:** Enables quick grasp of global salary disparities and highlights high/low salary regions.
@@ -108,6 +106,3 @@ IF(
 
 <img src="../Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
-## Conclusion
-
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
